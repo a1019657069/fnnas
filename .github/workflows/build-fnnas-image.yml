@@ -209,7 +209,7 @@ on:
         type: choice
         options:
           - ophub/fnnas
-          - a1019657069/kermel
+          - a1019657069/kernel
       fnnas_kernel:
         description: "Select fnnas kernel version"
         required: false
